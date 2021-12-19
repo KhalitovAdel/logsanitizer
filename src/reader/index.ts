@@ -1,1 +1,1 @@
-export * from "./line.reader";
+export * from './line.reader';

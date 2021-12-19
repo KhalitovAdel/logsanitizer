@@ -1,1 +1,1 @@
-export * from "./string-line.decryption";
+export * from './string-line.decryption';
